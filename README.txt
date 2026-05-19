@@ -33,7 +33,7 @@ FOS-GBM-SMA-GUI/
 └── README.md              # Project documentation
 Installation
 Clone the Repository
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/ranjandivesh453/3D-Slope-Stability-Prediction/tree/main
 cd your-repository-name
 Create Virtual Environment (Optional but Recommended)
 python -m venv venv

@@ -74,13 +74,6 @@ View the predicted Factor of Safety (FOS).
 Export the prediction results as a CSV file if required.
 Screenshots
 
-Add GUI screenshots here for better visualization.
-
-assets/screenshot1.png
-assets/screenshot2.png
-Applications
-Engineering Applications
-
 The developed GUI can support:
 
 Three-dimensional slope stability assessment
@@ -113,8 +106,7 @@ Citation
 
 If you use this repository in your research, please cite:
 
-Author Name, "Hybrid GBM–SMA GUI for Factor of Safety Prediction of Slopes," GitHub Repository, Year.
-Contact
+Kumar, S., Sunkpho, J., Kumar, D.R. and Wipulanusat, W., Slope stability analysis of Mount St. Helens slope using Scoops3D and machine learning.
 
 For questions or collaborations:
 

@@ -112,4 +112,4 @@ For questions or collaborations:
 
 Name: Divesh Ranjan Kumar
 Email: ranjandivesh453@gmail.com
-GitHub: https://github.com/your-username
+GitHub: https://github.com/ranjandivesh453/3D-Slope-Stability-Prediction/tree/main

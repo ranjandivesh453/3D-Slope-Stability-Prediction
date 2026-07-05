@@ -93,12 +93,6 @@ Contributing
 
 Contributions are welcome.
 
-Fork the repository
-Create a new branch
-Commit your changes
-Push to the branch
-Submit a pull request
-License
 
 This project for research purpose only.
 
@@ -106,7 +100,7 @@ Citation
 
 If you use this repository in your research, please cite:
 
-Kumar, S., Sunkpho, J., Kumar, D.R. and Wipulanusat, W., Slope stability analysis of Mount St. Helens slope using Scoops3D and machine learning.
+Kumar S, Sunkpho J, Kumar DR, Wipulanusat W. Slope stability analysis of Mount St. Helens slope using Scoops3D and machine learning. Transp Geotech 2026:102212. https://doi.org/https://doi.org/10.1016/j.trgeo.2026.102212.
 
 For questions or collaborations:
 
